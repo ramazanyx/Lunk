@@ -1,3 +1,6 @@
 [submodule "xash-extras"]
 	path = xash-extras
 	url = https://github.com/tyabus/xash-extras
+[submodule "am/xash-extras"]
+	path = am/xash-extras
+	url = https://github.com/tyabus/xash-extras
